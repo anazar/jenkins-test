@@ -5,7 +5,5 @@ class MyClass {
             return 1;
         }
         return 0;
-
-        // more stuff
     }
 }

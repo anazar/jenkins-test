@@ -8,9 +8,4 @@ class MyClassTest extends PHPUnit_Framework_TestCase {
         $x = new MyClass();
         $this->assertEquals(1, $x->demo(1));
     }
-
-    // meh
-
-
-    // meh
 }
